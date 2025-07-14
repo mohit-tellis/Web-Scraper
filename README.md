@@ -56,4 +56,4 @@ For educational use only. Do not scrape websites without permission.
 👨‍💻 Author
 Mohit Raj
 📧 mohit@tellistechnologies.com
-🔗 https://github.com/raj20889
+🔗 https://github.com/mohit-tellis
