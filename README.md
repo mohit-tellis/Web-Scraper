@@ -20,9 +20,7 @@ web-scraper/
 ├── quotes.json # Output file (created after running)
 ├── package.json
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -34,19 +32,11 @@ Edit
 git clone https://github.com/your-username/web-scraper.git
 cd web-scraper
 2. Install Puppeteer
-bash
-Copy
-Edit
 npm install puppeteer
 3. Run the Scraper
-bash
-Copy
-Edit
 node scraper.js
 🔧 Example Output
 json
-Copy
-Edit
 [
   {
     "text": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”",
